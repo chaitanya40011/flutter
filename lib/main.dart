@@ -50,7 +50,7 @@ class SplashScreenState extends State<SplashScreen> {
     return Scaffold(
 
       body: Container(
-        color: const Color(0xff1a1c2a),
+        color: Color(0xff1a1c2a),
         child: const Center(
           child:Text(
             "Splash Screen",
